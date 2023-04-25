@@ -10,9 +10,11 @@ The interaction process with the database is performed dynamically and without t
 
 In summary, this application is a practical introduction to CRUD development and working with backend servers. We hope you enjoy creating and experimenting with this application.
 
-You can access the website here 👇:
+You can access folow the next steprs:
 
-https://josemek098dev.github.io/203-js-vite-databases/
+1-npm start
+2-npm run server - emulated the server
+3-npm run dev - and go to http://localhost:5173/203-js-vite-databases/
 
 Thanks for the visit!
 

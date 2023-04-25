@@ -280,15 +280,6 @@
       "gender": "female"
     },
     {
-      "id": 35,
-      "isActive": false,
-      "balance": 3358.65,
-      "avatar": "http://placehold.it/32x32",
-      "first_name": "Marcella",
-      "last_name": "Hodges",
-      "gender": "female"
-    },
-    {
       "id": 36,
       "isActive": false,
       "balance": 2498.48,
