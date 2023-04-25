@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-    base: '/203-js-vite-databases/',
+    base: '/203-js-vite-databases/', //nombre del repo
 });
