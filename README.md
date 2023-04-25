@@ -12,9 +12,9 @@ In summary, this application is a practical introduction to CRUD development and
 
 You can access folow the next steprs:
 
-1-npm start
-2-npm run server - emulated the server
-3-npm run dev - and go to http://localhost:5173/203-js-vite-databases/
+1. npm start
+2. npm run server - emulated the server
+3. npm run dev - and go to http://localhost:5173/203-js-vite-databases/
 
 Thanks for the visit!
 
